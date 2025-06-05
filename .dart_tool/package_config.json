@@ -1,0 +1,15 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "parking_system_simulation",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.19"
+    }
+  ],
+  "generated": "2025-05-23T05:55:29.715215Z",
+  "generator": "pub",
+  "generatorVersion": "3.5.3",
+  "pubCache": "file:///C:/Users/lenovo/AppData/Local/Pub/Cache"
+}
